@@ -6,14 +6,12 @@ My assignments for University of Michigan 'Data Science in Python' course on Cou
 
 Working with pandas library to analyse olympic medal and population data.
 
-### Assignment 2
+### Assignment 3
 
 Merging energy use and country GDP data, and analysis with pandas. 
 
 
-### Assignment 4
-
-Hypothesis Testing
+### Assignment 4: Hypothesis Testing
 
 Hypothesis: University towns have their mean housing prices less effected by recessions. 
 Assignment: Run a t-test to compare the ratio of the mean price of houses in university towns 
