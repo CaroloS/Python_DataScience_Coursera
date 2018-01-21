@@ -1,6 +1,6 @@
 # Introduction to Data Science
 
-Assignments for University of Michigan 'Data Science in Python' course on Coursera; demonstrating use of python numpy and pandas libraries, implmentation of the Series and DataFrame data structures for data analysis, along with functions such as groupby, merge, and pivot tables. 
+My assignments for University of Michigan 'Data Science in Python' course on Coursera; demonstrating use of python numpy and pandas libraries, implmentation of the Series and DataFrame data structures for data analysis, along with functions such as groupby, merge, and pivot tables. 
 
 ### Assignment 2
 
